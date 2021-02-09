@@ -13,7 +13,7 @@
 
 #### 文章页
 
-![image]https://github.com/tacit0428/React-Game-Forum/blob/main/show/article.gif)
+![image](https://github.com/tacit0428/React-Game-Forum/blob/main/show/article.gif)
 
 
 

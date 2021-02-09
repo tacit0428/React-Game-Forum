@@ -9,11 +9,11 @@
 
 ##### 登录页 + 主页
 
-![home](D:\备份\前端学习\L076 - React开发简书项目 从零基础入门到实战（完整版） - 299元\MyProject\blog\show\home.gif)
+![image](https://github.com/tacit0428/React-Game-Forum/blob/main/show/home.gif)
 
 ##### 文章页
 
-![article](D:\备份\前端学习\L076 - React开发简书项目 从零基础入门到实战（完整版） - 299元\MyProject\blog\show\article.gif)
+![image]https://github.com/tacit0428/React-Game-Forum/blob/main/show/article.gif)
 
 
 
